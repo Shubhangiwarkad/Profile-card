@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+section{
+    height:700px;
+    width:1500px;
+    background-color: #ECF0F3;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.Main{
+    height: 470px;
+    width: 350px;
+    margin-top: 100px;
+    position:relative;
+    background-color:  #ECF0F3;
+    border-radius: 5%;
+    border-style: solid;
+    border-color: white;
+    box-shadow: transparent;
+    
+}
+.sub1{
+    height: 35px;
+    width: 35px;
+    position:absolute;
+    display: block;
+    left:15px;
+    right:300px;
+    top:15px;
+    bottom: 417px;
+    border-radius: 50%;
+    border-style: solid;
+    background-color:  #ECF0F3;
+    border-color: white;
+    box-shadow: transparent;
+
+}
+.sub3{
+    height: 35px;
+    width: 35px;
+    position: absolute;
+    display: block;
+    right:15px;
+    left:300px;
+    top:15px;
+    bottom: 417px;
+    border-radius: 50%;
+    border-style: solid;
+    background-color:  #ECF0F3;
+    border-color: white;
+    box-shadow: transparent;
+
+}
+.sub2{
+    height: 150px;
+    width:150px;
+    position: absolute;
+    display: block;
+    top:15px;
+    left: 90px;
+    border-radius: 50%;
+    border-style: solid;
+    background-color:  #ECF0F3;
+    border-color: white;
+    box-shadow: transparent;
+  
+}
+
+#i1{
+    height: 15px;
+    width: 15px;
+    background-color:#ECF0F3;
+    position: relative;
+    top:5px;
+    left:8px;
+}
+
+#i3{
+    height: 15px;
+    width: 15px;
+    background-color:#ECF0F3;
+    position: relative;
+    top:5px;
+    left:14px;
+}
+#i2{
+    height: 125px;
+    width:125px;
+    position: relative;
+    border-radius: 50%;
+    top:5px;
+    left: 5px;
+}
+
+h1{
+    height: 34px;
+    width:175px;
+    position:relative;
+    top:180px;
+    left:90px;
+    font-size: 20px;
+
+}
+h2{
+    height: 24px;
+    width: 172px;
+    position:relative;
+    top:180px;
+    left:88px;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#44476A;
+    font-size: 16px;
+
+}
+.main2{
+    height:50px;
+    width: 1500px;
+    display: inline;
+    justify-content: space-between;
+    
+
+}
+.sub4{
+    height: 40px;
+    width:40px;
+    background: crimson;
+    display: inline-block;
+    position: relative;
+    top:200px;
+    left:80px;
+    border-radius: 50%;
+    border-style: solid;
+    background-color:  #ECF0F3;
+    border-color: white;
+    box-shadow: transparent;
+
+}
+#i5{
+    height: 30px;
+    width: 30px;
+    background-color:transparent;
+    position: relative;
+    top:9px;
+    left:10px;
+    border-radius: 50%;
+    color: #4267B2;
+}
+#i6{
+    height: 30px;
+    width: 30px;
+    background-color:transparent;
+    position: relative;
+    top:8px;
+    left:10px;
+    border-radius: 50%;
+    color:#1DA1F2;
+}
+#i7{
+    height: 30px;
+    width: 30px;
+    background-color:transparent;
+    position: relative;
+    top:8px;
+    left:10px;
+    border-radius: 50%;
+    color: #E34E6C;;
+}
+#i8{
+    height: 30px;
+    width: 30px;
+    background-color:transparent;
+    position: relative;
+    top:9px;
+    left:8px;
+    border-radius: 50%;
+    color:#FC501F;
+}
+.main3{
+
+    height:90px;
+    width:340px;
+    display:flex;
+    justify-content: space-around;
+    position: relative;
+    top:220px;
+    
+}
+#b1{
+    height:48px;
+    width:135px;
+    font-size: 17px;
+    border-radius: 10%;
+    border-style: solid;
+    background-color:  #ECF0F3;
+    border-color: white;
+    box-shadow: transparent;
+    
+}
+
+#b2{
+    height:48px;
+    width:135px;
+    font-size: 17px;
+    border-radius: 10%;
+    border-style: solid;
+    background-color:  #ECF0F3;
+    border-color: white;
+    box-shadow: transparent;
+    
+    
+}
+.main4{
+    height:90px;
+    width:340px;
+    display:flex;
+    justify-content: space-around;
+    position: relative;
+    top:200px;
+   
+}
+
+/* #Container{
+    height:467px;
+    width: 350px;
+    padding: 30px 30px 30px 30px;
+    color:red;
+    box-shadow:black;
+} */
+
+
+    
+    
+
+
